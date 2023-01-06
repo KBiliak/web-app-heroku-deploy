@@ -1,5 +1,2 @@
-read a book
-Add new todoAdd new todo1ttoadd a new todo
-add a new tod
-add a new to
-add a new tr
+add a button
+do the laundry
